@@ -1,8 +1,8 @@
-server:
-  port: 8080
+#server:
+#  port: 8080
 Spring:
-  application:
-    name: lagou-service-user
+#  application:
+#    name: lagou-service-user
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
