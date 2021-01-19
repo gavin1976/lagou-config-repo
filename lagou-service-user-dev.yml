@@ -11,7 +11,7 @@ Spring:
 eureka:
   client:
     service-url:
-      # 注册到集群，就把多个Eurekaserver地址使用逗号连接起来即可；注册到单实例（非集群模式），那就写一个就ok
+      # 注册到集群，就把多个Eurekaserver地址使用逗号连接起来即可；注册到单实例（非集群模式），那就写一个就ok 
       defaultZone: http://LagouCloudEurekaServerA:8761/eureka,http://LagouCloudEurekaServerB:8762/eureka
   instance:
     prefer-ip-address: true  #服务实例中显示ip，而不是显示主机名（兼容老的eureka版本）
