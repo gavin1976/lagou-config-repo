@@ -5,3 +5,6 @@ mysql:
   password: 123456
 email:
   content: Send email
+ip:
+  limit: 10
+  time: 60000
