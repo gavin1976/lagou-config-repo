@@ -5,6 +5,8 @@ mysql:
   password: 123456
 email:
   content: send email
+  account: 2632718705@qq.com
+  password:dzttmnoymmhtdifc
 ip:
   limit: 11
   time: 60000
