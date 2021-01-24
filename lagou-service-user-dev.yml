@@ -8,5 +8,5 @@ email:
   account: 2632718705@qq.com
   password: dzttmnoymmhtdifc
 ip:
-  limit: 11
+  limit: 10
   time: 60000
